@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Valentin Kotov</h1>
+<h1 align="center" >Hi 👋, I'm Valentin Kotov</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **JavaScript Back-End** and **React**
+- 👀 **JS** for the **win**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
